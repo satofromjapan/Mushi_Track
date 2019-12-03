@@ -1,2 +1,2 @@
 # Mushi_Track
-PRoject for Django based bug-tracker webapp
+Project for Django based bug-tracker webapp
