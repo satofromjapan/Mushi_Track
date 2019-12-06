@@ -27,4 +27,5 @@ def home(request):
     return render(request, 'tracker/home.html', context)
 
 def about(request):
-    return render(request, 'tracker/about.html')
+
+    return render(request, 'tracker/about.html', {'title': 'About'})
